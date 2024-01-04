@@ -6,12 +6,6 @@ India is an agricultural country and approximately 60% of the population work in
 Motivation
 India has population of nearly 1.5 billion. And this thought intrigued me if India is able to produce to feed its population. Rainfall plays an important role in crop production. Hence I have also included rainfall data as well.
 
-Dataset
-Crop Production Dataset: https://aps.dac.gov.in/APY/Public_Report1.aspx
-
-Rainfall Dataset: https://www.kaggle.com/datasets/rajanand/rainfall-in-india
-
-Population Dataset: https://en.wikipedia.org/wiki/List_of_states_in_India_by_past_population
 
 Screenshots
 Highest Crop Production (1997 - 2019)
